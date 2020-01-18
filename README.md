@@ -15,7 +15,7 @@ BiocManager::install(c("SummarizedExperiment","cqn","Rsamtools",
 if (!requireNamespace("devtools", quietly = TRUE))
     install.packages("devtools")
 
-devtools::install_github("ZW-xjtlu/exomePeak2")
+devtools::install_github("yue-wang-biomath/MetaTX")
 ```
 # Install
 <img
@@ -28,4 +28,4 @@ src = 'https://github.com/yue-wang-biomath/test/blob/master/5utr.png' />
 
 # Data
 
-# Reference
+# References
