@@ -18,9 +18,6 @@ if (!requireNamespace("devtools", quietly = TRUE))
 devtools::install_github("yue-wang-biomath/MetaTX")
 ```
 # Install
-<img
-src = 'https://github.com/yue-wang-biomath/test/blob/master/5utr.png' />
-<'https://github.com/yue-wang-biomath/test/blob/master/5utr.png'/>
 
 # Function
 
